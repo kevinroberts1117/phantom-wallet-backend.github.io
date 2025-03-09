@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+package-lock.json
+files
 node_modules
 dist
 dist-ssr
